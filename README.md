@@ -1,5 +1,5 @@
 # minitaur
-Pybullet Minitaur with Distributional Policy Gradients
+Pybullet Minitaur with Distributional Policy Gradients (D4PG).
 
 Dependencies:
 * ptan
